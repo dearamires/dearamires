@@ -25,3 +25,11 @@
 ###Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dearamires&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+###Contatos
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dearamires)
+
+[![Contact](https://img.shields.io/badge/Contact-andrear2221@gmail.com-blue)](mailto:andfrear2221@gmail.com)
