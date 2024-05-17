@@ -14,3 +14,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dearamires&repo=Credit-Card-Fraud-Detection&theme=dark)](https://github.com/dearamires/Credit-Card-Fraud-Detection)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dearamires&repo=Credit-Score&theme=dark)](https://github.com/dearamires/Credit-Score)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dearamires&repo=Predicao-de-Cancer-de-Mama&theme=dark)](https://github.com/dearamires/Predicao-de-Cancer-de-Mama)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dearamires&repo=cancer-de-prostata&theme=dark)](https://github.com/dearamires/cancer-de-prostata)
+
+
+
