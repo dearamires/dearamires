@@ -13,4 +13,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dearamires&repo=Credit-Card-Fraud-Detection&theme=dark)](https://github.com/dearamires/Credit-Card-Fraud-Detection)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dearamires&repo=dearamires/Credit-Score&theme=dark)](https://github.com/dearamires/Credit-Score)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dearamires&repo=Credit-Score&theme=dark)](https://github.com/dearamires/Credit-Score)
