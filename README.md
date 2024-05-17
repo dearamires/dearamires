@@ -1,4 +1,6 @@
-### Olá" 👋
+### Olá! 
+
+#####Sobre Andrea: profissional formada em Análise e Ciência de Dados, em transição de carreira.
 
 
 
