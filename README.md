@@ -24,5 +24,4 @@
 
 ###Linguagens utilizadas
 
-
-[![Top Langs](https://github-readme-stats-.vercel.app/api/top-langs/?username=dearamires&layout=compact)](https://github.com8/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dearamires&repo=Credit-Score&theme=dark)](https://github.com/dearamires/Credit-Score)
