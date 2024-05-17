@@ -19,12 +19,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dearamires&repo=cancer-de-prostata&theme=dark)](https://github.com/dearamires/cancer-de-prostata)
 
-
-###Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats-.vercel.app/api/top-langs/?username=dearamires&layout=compact)](https://github.com8/anuraghazra/github-readme-stats)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dearamires&repo=previsao-de-renda&theme=dark)](https://github.com/dearamires/previsao-de-renda)
 
 
+###Linguagens utilizadas
 
+
+[![Top Langs](https://github-readme-stats-.vercel.app/api/top-langs/?username=dearamires&layout=compact)](https://github.com8/anuraghazra/github-readme-stats)
