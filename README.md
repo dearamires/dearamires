@@ -17,8 +17,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dearamires&repo=Predicao-de-Cancer-de-Mama&theme=dark)](https://github.com/dearamires/Predicao-de-Cancer-de-Mama)
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dearamires&repo=cancer-de-prostata&theme=dark)](https://github.com/dearamires/cancer-de-prostata)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dearamires&repo=previsao-de-renda&theme=dark)](https://github.com/dearamires/previsao-de-renda)
 
 
 
