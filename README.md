@@ -1,6 +1,6 @@
-### Olá! Bem-vindo ao meu perfil/repositório
+### Olá! Bem-vindo ao meu perfil/repositório ###
 
-#####Sobre Andrea: profissional formada em Análise e Ciência de Dados, em transição de carreira.
+#####Sobre Andrea: profissional formada em Análise e Ciência de Dados, em transição de carreira.#####
 
 
 
