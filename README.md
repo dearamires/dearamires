@@ -52,9 +52,11 @@
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white)]()
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)]()
 [![Power BI](https://img.shields.io/badge/Power%20BI-316192?logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/)
+[![PySpark](https://img.shields.io/badge/PySpark-777BB4?logo=numpy&logoColor=white)]()
 
 [![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)]()
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white)]()
+[![Databricks](https://img.shields.io/badge/Databricks-000000.svg?logo=PyCharm&logoColor=white)]()
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)]()
