@@ -30,7 +30,7 @@
 
 <details open>
   <summary>
-    <h1>💻 Technologies</h1>
+    <h1>💻 Tecnologias</h1>
   </summary>
   
 [![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)]()
