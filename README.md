@@ -1,10 +1,10 @@
 ### Olá! Bem-vindo ao meu perfil/repositório ###
 
-#####Sobre Andrea: profissional formada em Análise e Ciência de Dados, em transição de carreira.#####
+##### Sobre Andrea: profissional formada em Análise e Ciência de Dados, em transição de carreira. #####
 
 
 
-###Detalhes
+### Detalhes ###
 
 
 [![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=dearamires&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,7 +24,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dearamires&repo=previsao-de-renda&theme=dark)](https://github.com/dearamires/previsao-de-renda)
 
 
-###Linguagens utilizadas
+### Linguagens utilizadas ###
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dearamires&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -66,7 +66,7 @@
 <!--  -->
 
 
-###Contatos
+### Contatos ###
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrea-ramires)
