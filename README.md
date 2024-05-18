@@ -51,7 +51,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)]()
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white)]()
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)]()
-[![Power BI](https://img.shields.io/badge/Power BI-316192?logo=power_bil&logoColor=white)]()
+[![Power BI](https://img.shields.io/badge/Power BI-316192?logo=powerbil&logoColor=white)]()
 
 [![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)]()
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white)]()
