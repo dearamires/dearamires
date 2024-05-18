@@ -1,4 +1,4 @@
-### Olá! 
+### Olá! Bem-vindo ao meu perfil/repositório
 
 #####Sobre Andrea: profissional formada em Análise e Ciência de Dados, em transição de carreira.
 
@@ -34,4 +34,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrea-ramires)
 
-[![Contact](https://img.shields.io/badge/Contact-andrear2221@gmail.com-blue)](mailto:andfrear2221@gmail.com)
+[![Contact](https://img.shields.io/badge/Contact-andrear2221@gmail.com-blue)](mailto:andrear2221@gmail.com)
+
+[![Contact](https://img.shields.io/badge/Github-Connect-blue?style=flat&logo=github)](https://github.com/dearamires)
