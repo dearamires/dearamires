@@ -63,7 +63,6 @@
 
 <!-- [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)]() -->
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)]()
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)]()
 
 <!--  -->
